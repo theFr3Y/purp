@@ -11,5 +11,11 @@ cd purp
 pip install -r require.txt
 python PurP.py
 ```
-## Warning
-this version fixed for CMD but you can use script in linux or others
+## Alpha version 1.0
+- Added colors and design to the script
+- Fixed some errors
+
+## Tested Consoles:
+- Bash
+- CMD
+- PowerShell

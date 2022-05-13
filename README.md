@@ -19,3 +19,5 @@ python PurP.py
 - Bash
 - CMD
 - PowerShell
+
+-Termux
